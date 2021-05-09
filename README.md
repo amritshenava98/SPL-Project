@@ -7,6 +7,11 @@ I chose Javascript and Python because both are versatile programming languages u
 When it comes to Data types, we do not need to specify the data type of the variable. 
 
 ```javascript
+//javascript
 var example = "example"
 ```
 
+```python
+#python
+example = "example"
+```
